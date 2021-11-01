@@ -1,11 +1,11 @@
 .bg{
-    background-image: url("hero-bg.jpg");
+    background-image: url("myself.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height:100vh;    
 }
 .col1{
-    background-color: #040b14;
+    background-color: #02050ae8;
     color:blanchedalmond
 }
 .list li a{
